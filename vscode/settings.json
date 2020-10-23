@@ -1,6 +1,6 @@
 {
   "workbench.colorTheme": "Dracula",
-  "workbench.iconTheme": "vscode-great-icons",
+  "workbench.iconTheme": "material-icon-theme",
   "editor.wordWrap": "on",
 
   "terminal.integrated.fontSize": 14,

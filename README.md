@@ -48,3 +48,8 @@ $ brew cask install figma
 ````
 $ brew cask install kap
 ````
+
+- **[Kap](https://formulae.brew.sh/cask/docker)**
+````
+$ brew cask install docker
+````

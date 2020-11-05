@@ -53,3 +53,8 @@ $ brew cask install kap
 ````
 $ brew cask install docker
 ````
+
+- **[Reactotron](https://formulae.brew.sh/cask/reactotron)**
+````
+$ brew cask install reactotron
+````
